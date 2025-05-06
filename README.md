@@ -19,10 +19,10 @@ This project investigates the long-term environmental and public health implicat
 
 ## 📂 Data Sources
 
-- **[U.S. Pollution Dataset (2000–2022)]**  (https://www.kaggle.com/datasets/guslovesmath/us-pollution-data-200-to-2022)  
+- **[U.S. Pollution Dataset (2000–2022)](https://www.kaggle.com/datasets/guslovesmath/us-pollution-data-200-to-2022)** 
   Contains air quality measurements (PM2.5, PM10, CO, NO₂, O₃) from government monitoring stations.
 
-- **[188 Million U.S. Wildfires Dataset]**  (https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/data)  
+- **[188 Million U.S. Wildfires Dataset](https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/data)**  
   Records wildfire events across the U.S. with detailed metadata such as year, size, cause, and FIPS location codes.
 
 ---
@@ -41,31 +41,31 @@ This project investigates the long-term environmental and public health implicat
 
 ### 🔥 Wildfire Trends Over Time  
 Tracks increase in fire frequency and acres burned over time  
-![Wildfire Trends](./screenshots/wildfire_trends.png)
+![Wildfire Trends](Charts/wildfire_trends.png)
 
 ---
 
 ### 🧯 Wildfire Size Distribution by Region  
 Bubble plot of fire size grouped by FIPS code  
-![Wildfire Size Distribution](./screenshots/size_distribution.png)
+![Wildfire Size Distribution](Charts/size_distribution.png)
 
 ---
 
 ### 💨 Impact of Wildfire Frequency on AQI  
 Correlation between number of fires and average air quality  
-![Wildfire Frequency on AQI](./screenshots/frequency_vs_aqi.png)
+![Wildfire Frequency on AQI](Charts/frequency_vs_aqi.png)
 
 ---
 
 ### 📊 Health Risk Breakdown by AQI  
 Donut chart showing AQI category distribution  
-![Health Risk by AQI](./screenshots/aqi_distribution.png)
+![Health Risk by AQI](Charts/aqi_distribution.png)
 
 ---
 
 ### 🗺️ California’s Wildfire Danger Zones  
 Choropleth map of fire incidents across counties  
-![CA Danger Zones](./screenshots/california_danger_zones.png)
+![CA Danger Zones](Charts/california_danger_zones.png)
 
 ---
 
@@ -73,21 +73,11 @@ Choropleth map of fire incidents across counties
 
 All visualizations are also accessible as live dashboards on Flourish:
 
-- [Wildfire Trends](https://public.flourish.studio/visualisation/xxxxx)  
-- [Size Distribution](https://public.flourish.studio/visualisation/yyyyy)  
-- [AQI Impact](https://public.flourish.studio/visualisation/zzzzz)  
-- [Health Risk by AQI](https://public.flourish.studio/visualisation/aaaaa)  
-- [California Map](https://public.flourish.studio/visualisation/bbbbb)
-
-> 📁 A full list of these links is available in the [Visualizations Folder](./visualizations/README.md)
-
----
-
-## 🧑‍🤝‍🧑 Team
-
-- Mihir Harishankar Parab  
-- Rohit Sunil Patil  
-- Simran Abhay Sinha
+- [Wildfire Trends](https://public.flourish.studio/visualisation/22250630/)  
+- [Size Distribution](https://public.flourish.studio/visualisation/22255179/)  
+- [AQI Impact](https://public.flourish.studio/visualisation/22251796/)  
+- [Health Risk by AQI](https://public.flourish.studio/visualisation/22251557/)  
+- [California Map](https://public.flourish.studio/visualisation/22255159/)
 
 ---
 
