@@ -19,10 +19,10 @@ This project investigates the long-term environmental and public health implicat
 
 ## 📂 Data Sources
 
-- **[U.S. Pollution Dataset (2000–2022)]**  (https://www.kaggle.com/datasets/guslovesmath/us-pollution-data-200-to-2022) 
+- **[U.S. Pollution Dataset (2000–2022)]**  (https://www.kaggle.com/datasets/guslovesmath/us-pollution-data-200-to-2022)  
   Contains air quality measurements (PM2.5, PM10, CO, NO₂, O₃) from government monitoring stations.
 
-- **[188 Million U.S. Wildfires Dataset]**  (https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/data)
+- **[188 Million U.S. Wildfires Dataset]**  (https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/data)  
   Records wildfire events across the U.S. with detailed metadata such as year, size, cause, and FIPS location codes.
 
 ---
