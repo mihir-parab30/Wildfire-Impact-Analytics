@@ -41,7 +41,7 @@ This project investigates the long-term environmental and public health implicat
 
 ### 🔥 Wildfire Trends Over Time  
 Tracks increase in fire frequency and acres burned over time  
-![Wildfire Trends](Charts/wildfire_trends.png)
+![Wildfire Trends](Charts/wildfires_trends.png)
 
 ---
 
